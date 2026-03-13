@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @d-manju
-- 👀 I’m interested in Photography, Travel and of course Software 
-- 🌱 I’m learning!
-- 💞️ I’m looking to collaborate on anything intresting
-- 📫 How to reach me +91 9538156320
+# Hi there, I'm Manju! 👋
 
-<!---
-d-manju/d-manju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub followers](https://img.shields.io/github/followers/d-manju?label=Follow&style=social)](https://github.com/d-manju)
+
+---
+
+## 👤 About Me
+
+- 🌱 I'm a **lifelong learner** — always picking up new skills and exploring new ideas
+- 💞️ I'm looking to **collaborate** on anything interesting
+- 📷 When I'm not coding, you'll find me behind a camera or planning my next trip
+
+---
+
+## 👀 Interests
+
+| 🖥️ Software | 📷 Photography | ✈️ Travel |
+|:---:|:---:|:---:|
+| Building things with code | Capturing moments | Exploring new places |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d-manju&show_icons=true&theme=default" alt="d-manju's GitHub stats" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+- **GitHub:** [@d-manju](https://github.com/d-manju)
+- **Phone:** +91 9538156320
+
+---
+
+<p align="center">Thanks for visiting my profile! 😊</p>
