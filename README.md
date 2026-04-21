@@ -23,11 +23,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-manju&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="d-manju's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d-manju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="d-manju's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=d-manju&theme=default" alt="d-manju's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=d-manju&theme=tokyonight&hide_border=true" alt="d-manju's GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-manju&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-manju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
